@@ -5,7 +5,7 @@ db_config = {
     "host": "localhost",
     "user": "root",
     "password": "",
-    "database": "scsaddsadssadsahedule",
+    "database": "test",
     "port": 3306,
 }
 
